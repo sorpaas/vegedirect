@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>綠油油本地有機蔬菜園</name>
+  <description><![CDATA[電話：9219 4066
+傳真：2472 6322
+電郵：lukyauyauorg@yahoo.com.hk
+網址：http://www.lukyauyau.org
+開放時間：星期一至日
+（08:00 - 18:00）]]></description>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ltblue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>綠油油本地有機蔬菜園</name>
+    <description><![CDATA[<div>電話：9219 4066</div><div>傳真：2472 6322</div><div>電郵：lukyauyauorg@yahoo.com.hk</div><div>網址：http://www.lukyauyau.org</div><div>開放時間：星期一至日</div><div>（08:00 - 18:00）</div>]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>113.944580,22.427067,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>

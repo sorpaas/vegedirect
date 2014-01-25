@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>利民健康農莊</name>
+  <description><![CDATA[電話：2478 6983
+傳真：2478 4059
+電郵：rfrhf@richmond.org.hk
+網址：http://facebook.com/
+richmondhealthfarm
+開放時間：星期一至六
+（09:00 - 17:00）]]></description>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ltblue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>利民健康農莊</name>
+    <description><![CDATA[<div>電話：2478 6983</div><div>傳真：2478 4059</div><div>電郵：rfrhf@richmond.org.hk</div><div>網址：http://facebook.com/</div><div>richmondhealthfarm</div><div>開放時間：星期一至六</div><div>（09:00 - 17:00）</div>]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>114.013489,22.441942,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>

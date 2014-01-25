@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>陶氏休閒生態農莊</name>
+  <description><![CDATA[電話：22660003 / 65785559
+網址：http://www.yl.hk/tosbbq/index.htm
+傳真：23377667
+開放時間：星期一至日
+（08:00 - 18:00）]]></description>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ltblue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>陶氏休閒生態農莊</name>
+    <description><![CDATA[<div>電話：22660003 / 65785559</div><div>網址：http://www.yl.hk/tosbbq/index.htm</div><div>傳真：23377667</div><div>開放時間：星期一至日</div><div>（08:00 - 18:00）</div>]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>113.982964,22.463240,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>元朗城市農莊</name>
+  <description><![CDATA[電話：62357332 / 59386083 / 62266764
+電郵：CS@CityFarmYL.com
+網址：http://cityfarmyl.com
+開放時間：星期一至日
+（ 10:00-17:00）]]></description>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ltblue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>元朗城市農莊</name>
+    <description><![CDATA[<div>電話：62357332 / 59386083 / 62266764</div><div>電郵：CS@CityFarmYL.com</div><div>網址：http://cityfarmyl.com</div><div>開放時間：星期一至日</div><div>（ 10:00-17:00）</div>]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>114.013489,22.440779,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>

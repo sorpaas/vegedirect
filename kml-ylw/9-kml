@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>綠葉農場</name>
+  <description><![CDATA[電話：9710 7482
+傳真：2669 0676
+電郵：chongseeyip@yahoo.com.hk
+開放時間：星期一至六（10:00 - 22:00）]]></description>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ltblue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>綠葉農場</name>
+    <description><![CDATA[<div>電話：9710 7482</div><div>傳真：2669 0676</div><div>電郵：chongseeyip@yahoo.com.hk</div><div>開放時間：星期一至六</div><div>（10:00 - 22:00）</div>]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>114.025185,22.424273,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>

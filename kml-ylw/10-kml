@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>大棠荔枝園</name>
+  <description><![CDATA[元朗大棠山道11 號
+電話：2473 3818 / 2470 2201
+傳真：2474 3255 / 2470 3662
+電郵：info@taitong.com.hk
+網址：http://www.taitong.com.hk
+開放時間：星期一至日
+（09:00 - 18:00）]]></description>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ltblue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>大棠荔枝園</name>
+    <description><![CDATA[<span style="font-family:arial, helvetica, sans-serif;background-color:rgb(255, 255, 255)">元朗大棠山道11 號</span><br style="font-family:arial, helvetica, sans-serif;background-color:rgb(255, 255, 255)"><span style="font-family:arial, helvetica, sans-serif;background-color:rgb(255, 255, 255)">電話：2473 3818 / 2470 2201</span><br style="font-family:arial, helvetica, sans-serif;background-color:rgb(255, 255, 255)"><span style="font-family:arial, helvetica, sans-serif;background-color:rgb(255, 255, 255)">傳真：2474 3255 / 2470 3662</span><br style="font-family:arial, helvetica, sans-serif;background-color:rgb(255, 255, 255)"><span style="font-family:arial, helvetica, sans-serif;background-color:rgb(255, 255, 255)">電郵：info@taitong.com.hk</span><br style="font-family:arial, helvetica, sans-serif;background-color:rgb(255, 255, 255)"><span style="font-family:arial, helvetica, sans-serif;background-color:rgb(255, 255, 255)">網址：http://www.taitong.com.hk</span><br style="font-family:arial, helvetica, sans-serif;background-color:rgb(255, 255, 255)"><span style="font-family:arial, helvetica, sans-serif;background-color:rgb(255, 255, 255)">開放時間：星期一至日</span><br style="font-family:arial, helvetica, sans-serif;background-color:rgb(255, 255, 255)"><span style="font-family:arial, helvetica, sans-serif;background-color:rgb(255, 255, 255)">（09:00 - 18:00）</span>]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>114.024544,22.413429,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>

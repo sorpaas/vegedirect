@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>天水圍綠田園燒烤樂園</name>
+  <description><![CDATA[電郵：tswgreenfield@yahoo.com.hk
+網址：http://www.yl.hk/green
+電話：2472 6848
+傳真：2472 6739
+開放時間： 星期一至日
+（10:00 - 18:00）]]></description>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ltblue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style3">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ltblue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style2">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ltblue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>天水圍綠田園燒烤樂園</name>
+    <description><![CDATA[<div>電郵：tswgreenfield@yahoo.com.hk</div><div>網址：http://www.yl.hk/green</div><div>電話：2472 6848</div><div>傳真：2472 6739</div><div>開放時間： 星期一至日</div><div>（10:00 - 18:00）</div>]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>113.993347,22.463938,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>22.464133, 113.982962</name>
+    <description><![CDATA[+22° 27' 50.88", +113° 58' 58.66"<br><img src="https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=22.464133,113.982962&amp;thumb=0">]]></description>
+    <styleUrl>#style3</styleUrl>
+    <Point>
+      <coordinates>113.982964,22.464132,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>22.464133, 113.982962</name>
+    <description><![CDATA[+22° 27' 50.88", +113° 58' 58.66"<br><img src="https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=22.464133,113.982962&amp;thumb=0">]]></description>
+    <styleUrl>#style2</styleUrl>
+    <Point>
+      <coordinates>113.982964,22.464132,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>

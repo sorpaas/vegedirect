@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>利生園休閒自摘農莊</name>
+  <description><![CDATA[開放時間：星期一至日（06:00 - 24:00）
+電話：6109 7118]]></description>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ltblue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>利生園休閒自摘農莊</name>
+    <description><![CDATA[<div>開放時間：星期一至日（06:00 - 24:00）</div><div>電話：6109 7118</div>]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>113.942497,22.425844,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>
